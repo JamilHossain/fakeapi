@@ -5,7 +5,7 @@
       "total": 1,
       "rows":[
         {
-          "user_id": 75, 
+          "user_id": "75", 
           "name": "Hetal gohil",
           "email": "hetalgohil@gmail.com",
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
@@ -15,8 +15,8 @@
           "profession": "developer",
           "phone": "545644454",
           "website": "www.google.com",
-          "following": 54,
-          "followers": 5445,
+          "following": "54",
+          "followers": "5445",
           "posts": [
             "http://flutter.wrteam.in/uploads/posts/1566903799.37.jpg",
             "http://flutter.wrteam.in/uploads/posts/1566903799.3781.jpg",
