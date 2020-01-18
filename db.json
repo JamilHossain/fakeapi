@@ -30,6 +30,15 @@
   [
     {"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
     {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"},
-    {"Date":"05-Jan-2020","Particulars":"Top-up","Amount":"10000"}
+    {"Date":"05-Jan-2020","Particulars":"Top-up","Amount":"10000"},{"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
+    {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"},
+    {"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
+    {"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
+    {"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
+    {"Date":"01-Jan-2020","Particulars":"Membership Fee","Amount":"(5000)"},
+    {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"},
+    {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"},
+    {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"} ,
+    {"Date":"02-Jan-2020","Particulars":"Restaurant Bill","Amount":"(3000)"}    
   ]
 }
