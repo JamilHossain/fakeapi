@@ -1,31 +1,33 @@
 {
   "profiles" : [
-    "id": 1,
-    "total": 1,
-    "rows":[
-      {
-        "user_id": 75, 
-        "name": "Hetal gohil",
-        "email": "hetalgohil@gmail.com",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-        "dob": "2018-12-31",
-        "gender": "female",
-        "city": "KACHCHH (Bh, address: Bhuj kutch, country: india",
-        "profession": "developer",
-        "phone": "545644454",
-        "website": "www.google.com",
-        "following": 54,
-        "followers": 5445,
-        "posts": [
-          "http://flutter.wrteam.in/uploads/posts/1566903799.37.jpg",
-          "http://flutter.wrteam.in/uploads/posts/1566903799.3781.jpg",
-          "http://flutter.wrteam.in/uploads/posts/1566903799.3832.jpg",
-          "http://flutter.wrteam.in/uploads/posts/1566903799.391.jpg",
-          "http://flutter.wrteam.in/uploads/posts/1566903799.3924.jpg"
-        ],
-        "image": "http://flutter.wrteam.in/uploads/users/1566792445.7395.png",
-        "date_created": "26-08-2019 09:08:25"
-      }
-    ]
+    {
+      "id": 1,
+      "total": 1,
+      "rows":[
+        {
+          "user_id": 75, 
+          "name": "Hetal gohil",
+          "email": "hetalgohil@gmail.com",
+          "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "dob": "2018-12-31",
+          "gender": "female",
+          "city": "KACHCHH (Bh, address: Bhuj kutch, country: india",
+          "profession": "developer",
+          "phone": "545644454",
+          "website": "www.google.com",
+          "following": 54,
+          "followers": 5445,
+          "posts": [
+            "http://flutter.wrteam.in/uploads/posts/1566903799.37.jpg",
+            "http://flutter.wrteam.in/uploads/posts/1566903799.3781.jpg",
+            "http://flutter.wrteam.in/uploads/posts/1566903799.3832.jpg",
+            "http://flutter.wrteam.in/uploads/posts/1566903799.391.jpg",
+            "http://flutter.wrteam.in/uploads/posts/1566903799.3924.jpg"
+          ],
+          "image": "http://flutter.wrteam.in/uploads/users/1566792445.7395.png",
+          "date_created": "26-08-2019 09:08:25"
+        }
+      ]
+    }
   ]
 }
